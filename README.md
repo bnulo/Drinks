@@ -187,3 +187,5 @@ import requests
 response = requests.get('http://127.0.0.1:8000/drinks')
 print(response.json())
 ```
+
+[Here you can watch the tutorial](https://www.youtube.com/watch?v=i5JykvxUk_A&t=320s)
